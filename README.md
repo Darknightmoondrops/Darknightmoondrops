@@ -1,4 +1,4 @@
-# Aryan Soleiman Zadeh
+# Arian Soleiman Zadeh
 
 👋 Hi! I'm Aryan Soleiman Zadeh.
 
