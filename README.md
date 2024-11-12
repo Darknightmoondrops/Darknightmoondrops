@@ -1,6 +1,6 @@
 # Arian Soleiman Zadeh
 
-👋 Hi! I'm Aryan Soleiman Zadeh.
+👋 Hi! I'm Arian SoleimanZadeh.
 
 🎓 I graduated with a degree in Computer Engineering, specializing in Software, from Azad University, and I am currently a PhD student in Computer Engineering.
 
