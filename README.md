@@ -14,7 +14,7 @@
 ## My Projects
 1. [BCSF GmbH](https://bcsf-gmbh.de)
 2. [BCS Co.](https://bcs.co.com)
-3. [Arian SOleimanzadeh](https://ariansoleimanzadeh.com)
+3. [Arian Soleimanzadeh](https://ariansoleimanzadeh.site)
 4. [Mohammad Karimian](https://mohamadkarimian.com)
 
 ## Contact Me
