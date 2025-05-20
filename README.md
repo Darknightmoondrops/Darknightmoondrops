@@ -12,7 +12,6 @@
 - UI/UX design
 - Brand Identity Design
 - SEO & Digital Marketing
-- 
 
 ## My Projects
 1. [BCSF GmbH](https://bcsf-gmbh.de)
