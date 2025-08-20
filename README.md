@@ -13,11 +13,7 @@
 - Brand Identity Design
 - SEO & Digital Marketing
 
-## My Projects
-1. [BCSF GmbH](https://bcsf-gmbh.de)
-2. [CRGingenieria](https://crgingenieria.cl)
-2. [Arian Soleimanzadeh](https://ariansoleimanzadeh.site)
-3. [Mohammad Karimian](https://mohamadkarimian.com)
-
+## Site
+[Arian Soleimanzadeh](ariansoleimanzadeh.site)
 ## Contact Me
 📫 [Email me](mailto:soleimanzadeh.a.work@gmail.com)
